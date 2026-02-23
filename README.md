@@ -8,4 +8,4 @@ Das Waveshare RP2040-GEEK Entwicklungsboard basiert auf dem RP2040 Mikrocontroll
 Ich zeige, wie Sie mit einer analogen Tastatur (5 Tasten) über eine Widerstandsleiter den Pico-Geek entsprechend erweitern.
 Am Ende dieses Beitrags sollen Sie in der Lage sein, einen von Ihnen gewählten sechsstelligen Pin in den EEPROM des Pico-Geek zu schreiben, der bei jeder Inbetriebnahme ausgelesen wird. Damit autorisieren Sie sich für die Anwendung.
 
-Als 'Aktion' für die Tasten werden Windows-Shortcuts festgelegt, die Sie per HID senden.
+Als 'Aktion' für die Tasten werden Windows-Shortcuts festgelegt, die Sie dann per HID ausführen.
