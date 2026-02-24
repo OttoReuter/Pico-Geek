@@ -7,8 +7,12 @@ Im Sketch 'geek_tastatur_mit_shortcuts.ino' autorisieren Sie sich durch den vorh
 Danach stehen Ihnen mit Hilfe der 5 Analogtasten folgende Shortcuts zur verfügung:
 
 Taste 1: Explorer öffnen 'WINDOWS + e',
+
 Taste 2: Desktop anzeigen 'WINDOWS + d',
+
 Taste 3: Fenster schließen 'ALT + F4',
+
 Taste 4: Screenshot 'WINDOWS + SHIFT + s',
+
 Taste 5: PC sperren 'WINDOWS + l',
 
